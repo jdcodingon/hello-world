@@ -1,4 +1,9 @@
 # hello-world
 My First Repository
 Exploring the world of github 
-Newbie learning GITHUB
+
+
+
+Hi,
+
+I'm just learning the basics of GITHUB so that i can someday work on projects.
